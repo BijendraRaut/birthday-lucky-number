@@ -22,12 +22,16 @@ input,label{
     height: 5vh;
     font-weight: bold;
     font-size: medium;
+    outline: none;
 }
 
 button {
     background-color: transparent;
     border-radius: 0.3rem;
-    padding: 0.3rem;
+    padding: 0.4rem;
     border: 1px medium peru;
     color: gray;
+    margin: auto;
+    display: block;
+    outline: none;
 }

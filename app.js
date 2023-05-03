@@ -16,9 +16,9 @@ function checkBirthdayLucky() {
 
 function comapareValue(sum, luckyNumber) {
   if (sum % luckyNumber === 0) {
-    outputText.innerText = "Luck number 🙂";
+    outputText.innerText = "Yay This is your lucky number 🙂";
   } else {
-    outputText.innerText = "Not Lucky Number 🥹";
+    outputText.innerText = "This is not your Lucky Number 🥹";
   }
 }
 
