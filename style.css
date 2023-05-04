@@ -30,7 +30,7 @@ button {
     border-radius: 0.3rem;
     padding: 0.4rem;
     border: 1px medium peru;
-    color: gray;
+    font-weight: bold;
     margin: auto;
     display: block;
     outline: none;
